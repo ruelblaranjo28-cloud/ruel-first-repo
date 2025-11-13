@@ -5,6 +5,8 @@ This is my first GitHub repository. I created this to learn the basics of Git an
 - 
 
 ## What I’m Learning
+- Git Basics
+- 
 
 ## About Me
 I am Ruel Laranjo, a Computer Science Engineering graduate, starting my journey in Data Science and building my portfolio step-by-step.
