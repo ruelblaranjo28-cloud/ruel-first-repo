@@ -1,6 +1,6 @@
 # ruel-first-repo
 
-My first GitHub repository for learning and version control
+My first GitHub repository for a Version Control Project.
 This is my first GitHub repository. I created this to learn the basics of Git and GitHub, including:
 - Creating repositories
 - Edit files
