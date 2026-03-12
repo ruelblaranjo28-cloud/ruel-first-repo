@@ -15,6 +15,6 @@ I will use this repository to practice and improve my skills as I work toward be
 - How to upload and organize files
 
 ## About Me
-I am Ruel Laranjo, a Computer Science Engineering graduate, starting my journey in Data Science and building my portfolio step-by-step.
+I am Ruel Laranjo, a Computer Systems Engineering graduate, starting my journey in Data Science and building my portfolio step-by-step.
 
 More projects coming soon!
